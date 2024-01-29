@@ -1,0 +1,13 @@
+Imagina que tienes que crear un sistema para reservar asientos en un teatro. El teatro tiene 10 filas, 
+cada una con 10 asientos. El sistema debe cumplir con los siguientes requisitos:
+
+    1)Al iniciar el sistema, todos los asientos deben estar libres.
+    2)Un asiento solo puede reservarse si está libre. Si un asiento está ocupado, 
+      el sistema debe permitir al comprador elegir otro asiento.
+    3)El sistema debe permitir a los usuarios finalizar el programa ingresando un valor en particular.
+    4)El sistema debe contemplar que solo hay 10 filas y 10 asientos. No se pueden vender asientos fuera de esas numeraciones. 
+      No se permite la "sobreventa".
+    
+    
+El sistema no necesita implementar una interfaz gráfica de usuario (GUI) ni una base de datos (BD). Se evaluará el manejo lógico del desarrollo de la aplicación.
+Como extra, el sistema debe permitir mostrar los asientos libres de forma gráfica. Sin embargo, no se puede utilizar una GUI para este caso. Se debe utilizar únicamente lógica y la salida por consola.
